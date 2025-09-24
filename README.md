@@ -2,8 +2,7 @@
 
 ## 📝 Project Overview
 
-The **Customer Churn Predictor Dashboard** is an interactive web application that predicts customer churn using a trained machine learning model. The dashboard provides intuitive visualizations, key metrics, and explanations for model predictions, helping businesses make informed decisions to retain customers.
-https://customerchurn1o1.streamlit.app/
+The **Customer Churn Predictor Dashboard** is an interactive web application that predicts customer churn using a trained machine learning model. The dashboard provides intuitive visualizations, key metrics, and explanations for model predictions, helping businesses make informed decisions to retain customers. LINK: https://customerchurn1o1.streamlit.app/
 
 **Key Features:**
 
