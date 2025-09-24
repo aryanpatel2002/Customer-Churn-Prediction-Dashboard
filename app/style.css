@@ -1,0 +1,21 @@
+
+body {
+    background-color: #fafafa;
+    color: #222;
+    font-family: 'Arial';
+}
+
+h1, h2, h3 {
+    color: #111;
+    font-weight: bold;
+}
+
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+}
+
+.stProgress>div>div>div>div {
+    background-color: #4CAF50;
+}
